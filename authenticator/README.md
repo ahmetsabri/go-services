@@ -6,7 +6,7 @@
 ## What I used
 
 - GORM
-- Goriila Mux
+- Gorilla mux
 
 You can test it by importing  [go-authenticator.json](https://github.com/ahmetsabri/go-services/blob/main/authenticator/Go-authenticator.json)
 
